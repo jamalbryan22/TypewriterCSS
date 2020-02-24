@@ -2,7 +2,7 @@
 
 Based on tutorial by Brad Traversy
 
-I wanted to work with upsplashes API for background images so there is a funky text color.
+I wanted to work with unplashe's API for random background images so there is a funky text color.
 
 The text color is to hopfully contrast with whatever random image that pops up. 
 
